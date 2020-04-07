@@ -12,9 +12,12 @@
 - [x] 番茄次数的统计
 - [x] 番茄次数列表
 ### 页面展示
-&emsp;&emsp;![计时页](https://github.com/leah1202/tomatoTodo/blob/master/screenshot/1.jpg)
-&emsp;&emsp;![倒计时页](https://github.com/leah1202/tomatoTodo/blob/master/screenshot/2.jpg)
-&emsp;&emsp;![倒计时暂停页](https://github.com/leah1202/tomatoTodo/blob/master/screenshot/3.jpg)
+&emsp;&emsp;![计时页](https://github.com/leah1202/tomatoTodo/blob/master/screenshot/1.jpg)   
+
+&emsp;&emsp;![倒计时页](https://github.com/leah1202/tomatoTodo/blob/master/screenshot/2.jpg)    
+
+&emsp;&emsp;![倒计时暂停页](https://github.com/leah1202/tomatoTodo/blob/master/screenshot/3.jpg)    
+
 &emsp;&emsp;![统计页](https://github.com/leah1202/tomatoTodo/blob/master/screenshot/4.jpg)
 
 ## 数据存储
